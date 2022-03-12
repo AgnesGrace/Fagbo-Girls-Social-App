@@ -1,0 +1,25 @@
+.rightbar {
+    flex: 3.5;
+}
+.rightbarWrapper {
+    padding: 1.2em 1.2em 0 0;
+}
+.birthdayImg {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    margin-right: .7em;
+}
+.birthdayText {
+    font-size: .9rem;
+    font-weight: 300;
+}
+.birthdayContainer {
+    display: flex;
+    align-items: center;
+}
+.rightbarAdvert {
+    border-radius: 12px;
+    margin: 1.8em 0;
+    width: 100%;
+}
